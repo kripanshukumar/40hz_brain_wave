@@ -1,4 +1,4 @@
-#Description:
+# Description:
 The 40 Hz Light and Audio Device is a system designed to generate a 40 Hz sine wave audio and pulsating light synchronized with the audio. This device leverages brain wave entrainment, where brain waves adjust their frequency to match external stimuli, resulting in improved memory and concentration levels due to increased gamma wave production. This technical document outlines the components used, operation, and includes schematic, PCB design, and 3-D model representations.
 
 #Parts Used:
