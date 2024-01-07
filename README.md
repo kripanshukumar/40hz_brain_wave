@@ -2,9 +2,7 @@
 The 40 Hz Light and Audio Device is a system designed to generate a 40 Hz sine wave audio and pulsating light synchronized with the audio. This device leverages brain wave entrainment, where brain waves adjust their frequency to match external stimuli, resulting in improved memory and concentration levels due to increased gamma wave production. This technical document outlines the components used, operation, and includes schematic, PCB design, and 3-D model representations.
 
 # Parts Used:
-STM32F103	32 bit MCU clocked at 72Mhz
-MCP4725	I2C based 12-bit DAC
-LM4880	Is a dual audio power amplifier 250mW per channel, 8 ohm load, 5V supply
+STM32F103	32 bit MCU clocked at 72Mhz | MCP4725	I2C based 12-bit DAC | LM4880	Is a dual audio power amplifier 250mW per channel, 8 ohm load, 5V supply
 
 # Operation:
 •	STM32F103 server the purpose of an MCU.
